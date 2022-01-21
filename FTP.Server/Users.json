@@ -1,0 +1,17 @@
+[
+  {
+    "username": "hugo",
+    "password": "123",
+    "defaultRepository": "/Users/hugobelanger/dossier-ftp/hugo/"
+  },
+  {
+    "username": "bob",
+    "password": "qwerty",
+    "defaultRepository": "/Users/hugobelanger/dossier-ftp/bob/"
+  },
+  {
+    "username": "test",
+    "password": "Omega123",
+    "defaultRepository": "/Users/hugobelanger/dossier-ftp/test/"
+  }
+]
